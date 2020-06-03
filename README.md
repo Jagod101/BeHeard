@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Be Heard
+Make Your Voice Loud
 
-You can use the [editor on GitHub](https://github.com/Jagod101/BeHeard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Black Lives Matter](https://github.com/Jagod101/BeHeard/blob/gh-pages/images/logo-black-lives-matter.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mission
+During these times, no voice should be left unheard. Speak out for what **YOU** believe is right. Come together as a **COMMUNITY**. This is America, this is **OUR HOME**. Say it loud, _**BE HEARD**_
 
-### Markdown
+Use this as a resource to find out more such as:
+- National County Curfew Times
+- Bail Funds
+- Official GoFundMe Pages to help those affected
+- Peaceful Protest Locations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jagod101/BeHeard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I encourage you to also use **#BeHeard** to highlight the PEACEFUL PROTESTS happening in this country. We will not let our PRESIDENT label us as terrorists.
